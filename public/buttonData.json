@@ -1,5 +1,10 @@
 [
   {
+    "id": "sue_YouTubeChapters",
+    "text": "Give me a list of chapters for this transcript as a YouTube video in this format. Include a timecode for the end of the video:\n\n00:00 - Text (duration)\nMM:SS - Text (duration)\nMM:SS - Text (duration)\nMM:SS - End \n\nAfter the first list of chapters, if you have more than 10, do a second pass and consolidate down to the core topics if possible.\n\nLast do one final rewrite focusing on pithy, catchy titles that capture Sue's voice. Use Sue's words and phrases when they fit. Do not include duration in this final list.",
+    "label": "YouTube Chapters"
+  },
+  {
     "id": "sue_Blogpost",
     "text": "Write a blog post in the first-person from Sue Bryce, using her phrases, style, and voice. Do not say Sue's name when writing. Give me 3 Blog Titles and then a 500-word blog post with the strongest of those three titles.\n\nWrite about:",
     "label": "Sue Blog Post"
