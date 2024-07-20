@@ -1,7 +1,7 @@
 [
   {
     "id": "sue_YouTubeChapters",
-    "text": "Give me a list of chapters for this transcript as a YouTube video in this format. Include a timecode for the end of the video:\n\n00:00 - Text (duration)\nMM:SS - Text (duration)\nMM:SS - Text (duration)\nMM:SS - END \n\nAfter the first list of chapters, if you have more than 10, do a second pass and consolidate down to the core topics if possible.\n\nLast do one final rewrite focusing on pithy, catchy titles that capture Sue's voice. Use Sue's words and phrases when they fit. Do not include duration in this final list.",
+    "text": "Do you see timecode in this video transcript, including an end timecode? If so:\n\nGive me a list of chapters for this transcript as a YouTube video in this format. Include a timecode for the end of the video:\n\n00:00 - Text (duration)\nMM:SS - Text (duration)\nMM:SS - Text (duration)\nMM:SS - END \n\nAfter the first list of chapters, if you have more than 10, do a second pass and consolidate down to the core topics if possible.\n\nLast do one final rewrite focusing on pithy, catchy titles that capture Sue's voice. Use Sue's words and phrases when they fit. Do not include duration in this final list.",
     "label": "YouTube Chapters"
   },
   {
