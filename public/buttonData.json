@@ -5,6 +5,11 @@
     "label": "YouTube Chapters"
   },
   {
+    "id": "sue_summaries",
+    "text": "Create a 1,000 work summary of this transcript using the first-person voice of Sue Bryce without using her name. Use as much of the language from the transcript as possible.",
+    "label": "Sue Summary"
+  },
+  {
     "id": "sue_coachingEmail",
     "text": "Write an email from Sue Bryce, listing what she covered in her week 1 coaching, and giving people the link to go watch the recordings.\n\nYour writing style should use the same email template as previous weeks, write in the first-person voice of Sue Bryce, but don't say her name, use a high school graduate reading level, and don't use adverbs and adjectives.",
     "label": "Coaching Email Recap"
